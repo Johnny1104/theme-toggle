@@ -1,1 +1,2 @@
-# theme-toggle
+# theme-toggle <br/>
+Light / Dark theme toggle
